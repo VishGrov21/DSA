@@ -1,5 +1,5 @@
 /**
- * If an array with 6 numeric values, denoting the co-ordinates
+ * Given an array with 6 numeric values, denoting the co-ordinates
  * in a graph, to determine, if they are collinear, then
  * determine the area of the co-ordinates.
  * If the area is 0, then the co-ordinates are in a straight line
