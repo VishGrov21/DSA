@@ -16,5 +16,5 @@ const indexOfMountain = (arr = []) => {
   }
   return index;
 };
-const array = [100, 2, 3, 11, 21, 88, 1];
+const array = [2,1];
 console.log(indexOfMountain(array));
